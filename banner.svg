@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#05080c"/>
+      <stop offset="0.6" stop-color="#0d141b"/>
+      <stop offset="1" stop-color="#16222d"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.82" cy="0.45" r="0.45">
+      <stop offset="0" stop-color="#3b6a8f" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#3b6a8f" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1000" height="420" fill="url(#bg)"/>
+  <rect width="1000" height="420" fill="url(#glow)"/>
+  <rect x="640" y="110" width="270" height="170" rx="6" fill="#0a0f14" stroke="#2a3b4a" stroke-width="3"/>
+  <rect x="650" y="120" width="250" height="150" fill="#27465f" opacity="0.8"/>
+  <rect x="650" y="205" width="250" height="65" fill="#c97b8a" opacity="0.35"/>
+  <rect x="765" y="280" width="20" height="40" fill="#1b2630"/>
+  <rect x="725" y="318" width="100" height="8" rx="4" fill="#1b2630"/>
+  <text x="90" y="170" font-family="Montserrat, Segoe UI, Arial, sans-serif" font-size="46" font-weight="300" fill="#ffffff" letter-spacing="3">BHARTESH</text>
+  <text x="88" y="232" font-family="Montserrat, Segoe UI, Arial, sans-serif" font-size="64" font-weight="800" fill="#ffffff">BHUJABALLI</text>
+  <text x="92" y="270" font-family="Montserrat, Segoe UI, Arial, sans-serif" font-size="18" fill="#cfd8df" letter-spacing="9">Data Analyst</text>
+</svg>
