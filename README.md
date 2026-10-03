@@ -2,6 +2,8 @@
 
 <img src="banner.svg" alt="Bhartesh Bhujaballi - Data Analyst" width="100%"/>
 
+<img src="about.svg" alt="About Bhartesh" width="100%"/>
+
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-USERNAME)
@@ -12,9 +14,6 @@
 
 ---
 
-### About
-ISE student at City Engineering College, Bengaluru (2023–2027), building a career in data analytics. I turn raw data into clear, useful insights.
-
 ### Skills
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -23,4 +22,4 @@ ISE student at City Engineering College, Bengaluru (2023–2027), building a car
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ### Experience
-**Data Science Intern**, Prodigy InfoTech (Mar–Apr 2026)
+**Data Science Intern**, Prodigy InfoTech (Mar-Apr 2026)
